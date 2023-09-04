@@ -30,10 +30,11 @@ Los resultados destacaron patrones geográficos de accidentes en Bucaramanga y p
 
 ## Enlaces Útiles
 
-- [Mapa Interactivo de Clustering](https://oscar1485.github.io/ProyectoFinalCapstone/bucaramanga_clusters_map.html)
-- [Informe del Trabajo](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/INFORME.pdf)
-- [Conjunto de Datos con Coordenadas](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/barrios_con_coordenadas.csv)
-- [Conjunto de Datos Preprocesado](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/barrios_con_coordenadas_prepocesado.csv)
-- [Fuente del Dataset Original](https://www.datos.gov.co/Transporte/03-ACCIDENTES-DE-TRANSITO-DESDE-ENERO-2012-A-FEBRE/7cci-nqqb)
+- [Mapa Interactivo de Clustering](https://oscar1485.github.io/ProyectoFinalCapstone/bucaramanga_clusters_map.html){:target="_blank"}
+- [Informe del Trabajo](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/INFORME.pdf){:target="_blank"}
+- [Conjunto de Datos con Coordenadas](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/barrios_con_coordenadas.csv){:target="_blank"}
+- [Conjunto de Datos Preprocesado](https://github.com/oscar1485/ProyectoFinalCapstone/blob/main/barrios_con_coordenadas_prepocesado.csv){:target="_blank"}
+- [Fuente del Dataset Original](https://www.datos.gov.co/Transporte/03-ACCIDENTES-DE-TRANSITO-DESDE-ENERO-2012-A-FEBRE/7cci-nqqb){:target="_blank"}
+
 
 Este proyecto ofrece una visión detallada de los accidentes de tránsito en Bucaramanga y puede servir como base para futuras investigaciones y acciones en la mejora de la seguridad vial en la ciudad.
